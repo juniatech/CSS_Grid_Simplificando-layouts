@@ -60,6 +60,7 @@
     display: flex;
     padding: 1rem;
     width: 50%;
+    border: 1px solid #e4e1e1;
 }
 
 .destaques__categorias___link {
