@@ -10,6 +10,22 @@ Neste curso foi abordado:
 - Como dizer para os elementos onde eles devem começar e terminar.
 - Como deixar o site Responsivo.
 
+
+# Layout do projeto 
+
 <h1>
     <img width="965px" src="https://media.giphy.com/media/uUgRpBGWzXot3jqTiE/giphy.gif">
 </h1>
+
+# Tecnologias utilizadas 
+
+- HTML
+- CSS
+
+# Autor
+
+Júnia Regina de Camargo 💙
+
+LinkedIn: https://www.linkedin.com/in/juniatech/
+
+
